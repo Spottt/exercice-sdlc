@@ -48,15 +48,17 @@ et ce que vous feriez avec plus de temps.
 
 ## Rendu
 
-Ce dépôt est public : **ne le forkez pas et n'ouvrez pas de pull request ici**, votre travail serait visible des autres candidats.
+Le lien reçu dans notre e-mail pointe vers **un dépôt créé pour vous**, sous un nom anonyme.
 
-1. Récupérez-le chez vous : bouton « Use this template » (choisissez *Private*) ou `git clone`.
-2. Travaillez dans votre copie, avec des commits au fil de l'eau.
-3. Avant l'échéance indiquée dans notre e-mail, répondez à cet e-mail avec, au choix :
-   - le lien de votre dépôt, si vous l'avez rendu accessible ;
-   - ou un fichier contenant votre dépôt et son historique : `git bundle create rendu.bundle --all`.
+1. Forkez ce dépôt sur votre compte GitHub (bouton « Fork »).
+2. Travaillez dans votre fork, avec des commits au fil de l'eau.
+3. Avant l'échéance indiquée dans notre e-mail, ouvrez une **pull request de votre fork vers ce dépôt** : c'est votre rendu.
+
+À réception, nous repassons le dépôt en privé. Pensez alors à supprimer votre fork ou à le passer en privé.
 
 Lors de l'entretien technique, nous vous donnerons **un deuxième ticket** et vous ferez tourner votre SDLC devant nous,
 écran partagé. Gardez donc votre environnement prêt.
 
 Une question ? Répondez simplement à notre e-mail.
+
+*Si vous lisez ceci sur `Spottt/exercice-sdlc` : c'est le modèle de l'exercice, merci de ne pas y ouvrir de pull request.*
